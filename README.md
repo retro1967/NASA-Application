@@ -7,6 +7,8 @@
 #
 <img src="assets/images/readme.png" alt="Browser"/>
 
+| --- | --- | --- |
+| ![image](assets/images/phoneimg.png) | ![image](assets/images/phoneimg.png) | ![image](assets/images/phoneimg.png) |
 <div width="100%" style="height:300px">
   <img src="assets/images/phoneimg.png" alt="Mobile Capture"/>
   <img src="assets/images/apodmobile.png" alt="Mobile APOD"/>
