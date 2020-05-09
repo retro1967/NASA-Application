@@ -1,9 +1,8 @@
-.background {
+body {
     background: url("../images/astronomy-astrophotography-clouds-colors-755726.jpg") no-repeat center fixed;
     background-size: cover;
     padding-bottom: 80px;
 }
-
 
 #map-id {
     height: 450px;
@@ -218,6 +217,11 @@ div.ui-datepicker{
 }
 
 @media only screen and (max-width: 640px) {
+    body {
+        background: url("../images/diego-ph-5LOhydOtTKU-unsplash.jpg");
+        background-size: cover;
+        padding-bottom: 80px;
+    }
     .top-bar-right {
         justify-content: center;
 
